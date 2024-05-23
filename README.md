@@ -1,2 +1,2 @@
-# A simple Manipulator Tool For String Manpulator
-### C++
+# A simple Manipulator Tool For String Manpulator | C++
+
